@@ -1,0 +1,6 @@
+Libros: 3
+Préstamos: 1
+LIBRO|1|Cien Años de Soledad|Gabriel García Márquez|9780060883287|True
+LIBRO|2|El Principito|Antoine de Saint-Exupéry|9780156012195|True
+LIBRO|3|1984|George Orwell|9780451524935|True
+PRESTAMO|1|1|Juan Pérez|2025-10-03|True

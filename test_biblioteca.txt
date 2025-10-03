@@ -1,0 +1,3 @@
+Libros: 1
+Préstamos: 0
+LIBRO|1|Libro en Archivo|Autor Test|0987654321|True
